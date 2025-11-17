@@ -115,6 +115,8 @@ li.selected{
     background-image: url(./assets/ph_caret-down-bold.svg);
     background-repeat: no-repeat;
     background-position: right 0 top 50%;
+    font-family: "Rubik", sans-serif;
+    background-color: transparent;
 }
 .price{
     font-weight: 500;
